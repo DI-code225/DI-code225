@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DI-code225
-- 👀 I’m interested in coding and data
-- 🌱 I’m currently learning Python, SQL and other cool stuff
-- 💞️ I’m looking to collaborate on Travel Tech Projects
-- 📫 How to reach me send me a message here!
-
-
+- 👋 Hi, I’m DI
+- 👀 I'm a carrer switcher from travel to tech
+- Just finalised my Data Engineering bootcamp 
+- Nerding about ML, NLP and MLOps
+- Currently diving into Software Engineering with Python
+- I’m looking to collaborate on Travel Tech Projects
+- 📫 Wanna chat? Send me a message here!
